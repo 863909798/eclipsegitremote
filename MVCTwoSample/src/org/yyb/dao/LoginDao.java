@@ -1,6 +1,6 @@
 package org.yyb.dao;
 
-//123 hello world
+//aaaa
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
